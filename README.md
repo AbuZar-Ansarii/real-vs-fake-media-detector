@@ -35,7 +35,7 @@ Built using **Streamlit** and a **Hugging Face vision model**, this project demo
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-real-vs-fake-media-detector.git
+git clone https://github.com/AbuZar-Ansarii/real-vs-fake-media-detector.git
 cd ai-real-vs-fake-media-detector
 
  ** Install dependencies**
