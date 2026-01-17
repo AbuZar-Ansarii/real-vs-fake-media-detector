@@ -1,0 +1,13 @@
+tensorflow
+numpy
+matplotlib
+opencv-python
+Pillow
+streamlit
+transformers
+pytorch
+langchain
+langchain-huggingface
+dotenv
+requests
+
